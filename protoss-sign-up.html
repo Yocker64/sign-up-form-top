@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up to the Protoss Fleet</title>
+    <link rel="stylesheet" href="styles/reset-and-fonts.css">
+    <link rel="stylesheet" href="styles/form-style.css">
+</head>
+<body>
+    <main>
+        <div class="left-image">
+            <img src="Images/darktable_exported/zeratul-asking-you-if-you-would-give-your-life-for-aiur.jpg" alt="">
+        </div>
+        <div class="form">
+            <div class="link-back"><a href="index.html" >GO BACK TO MAIN PAGE</a></div>
+            <h2 style="font-family: protoss; font-size: 16px;">I have foreseen the darkness that approaches,<br> and in that darkness, I see… you.</h2>
+            <form action="" style="font-family: protoss;">
+                <div class="form-row">
+                    <div class="form-row-child">
+                        <label for="name">FIRST NAME*</label>
+                        <input type="text" name="name" id="name" required>
+                    </div>
+                    <div class="form-row-child">
+                        <label for="last-name">LAST NAME*</label>
+                        <input type="text" name="last-name" id="last-name" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-row-child">
+                        <label for="sync-percentage">SYNCHRONIZATION WITH EL-KALA**</label>
+                        <input type="number" min="0" max="100" name="sync-percentage">
+                    </div>
+                    <div class="form-row-child">
+                        <label for="height">HEIGHT*</label>
+                        <input type="number" min="100" max="300" required name="height">
+                    </div>
+                   <div class="form-row-child">
+                        <label for="mass">MASS*:</label>
+                        <input type="number" min="100" max="400"  name="mass" required>
+                   </div>
+                </div>
+               <div class="form-row">
+                   <div class="form-row-child">
+                        <label for="password">PASSWORD*</label>
+                        <input type="password" name="password">
+                   </div>
+                    <div class="form-row-child">
+                        <label for="confirm-password">CONFIRM PASSWORD*</label>
+                        <input type="password" name="confirm-password">
+                    </div>
+               </div>
+
+                <button type="submit" style="font-family: protoss; color: gold;">SUBMIT</button>
+            </form> 
+        </div>
+    </main>
+</body>
+</html>

@@ -8,19 +8,20 @@
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
-   exif:DateTimeOriginal=""
+   exif:DateTimeOriginal="2025:03:19 02:12:45.000"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="three-races.jpg"
-   darktable:import_timestamp="63877961056506020"
-   darktable:export_timestamp="-1"
+   xmpMM:DerivedFrom="zeratul-asking-you-if-you-would-give-your-life-for-aiur.jpg"
+   darktable:import_timestamp="63877972838938987"
+   darktable:change_timestamp="63877973431110181"
+   darktable:export_timestamp="63877972869742675"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="4"
+   darktable:history_end="6"
    darktable:iop_order_version="5"
    darktable:history_basic_hash="02d4cdbda625305c5e181669466f51d2"
-   darktable:history_current_hash="02d4cdbda625305c5e181669466f51d2">
+   darktable:history_current_hash="c0b818bf1a58b261b69c23ec5e92839e">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -70,12 +71,35 @@
       darktable:multi_priority="0"
       darktable:blendop_version="13"
       darktable:blendop_params="gz11eJxjYIAACQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAGpyHQU="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="c88d5c3e00000000f2753d3f0000803f0000000000000000"
+      darktable:multi_name=""
+      darktable:multi_name_hand_edited="0"
+      darktable:multi_priority="0"
+      darktable:blendop_version="13"
+      darktable:blendop_params="gz11eJxjYIAACQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAGpyHQU="/>
+     <rdf:li
+      darktable:num="5"
+      darktable:operation="crop"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="4e58923e00000000522b353f0000803f0000000000000000"
+      darktable:multi_name=""
+      darktable:multi_name_hand_edited="0"
+      darktable:multi_priority="0"
+      darktable:blendop_version="13"
+      darktable:blendop_params="gz11eJxjYIAACQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAGpyHQU="/>
     </rdf:Seq>
    </darktable:history>
    <dc:subject>
     <rdf:Bag>
      <rdf:li>changed</rdf:li>
      <rdf:li>darktable</rdf:li>
+     <rdf:li>exported</rdf:li>
      <rdf:li>format</rdf:li>
      <rdf:li>jpg</rdf:li>
     </rdf:Bag>
@@ -83,6 +107,7 @@
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>darktable|changed</rdf:li>
+     <rdf:li>darktable|exported</rdf:li>
      <rdf:li>darktable|format|jpg</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>
